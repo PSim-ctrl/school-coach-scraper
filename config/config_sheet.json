@@ -1,0 +1,26 @@
+[
+    {
+        "sheet_name": "List of Coaches (scraped)",
+        "sheet_id": "women's ice hockey",
+        "sheet_url": "https://docs.google.com/spreadsheets/d/1CvBlfX2YNMpgqK4_JQOLmtP-35VIIxz1UIhB8V4sut0/edit?gid=1038148581#gid=1038148581",
+        "output": "women_ice_hockey.json",
+        "failed_scraped": "failed_wice.json",
+        "category": [
+            "Women's College Hockey DI Coaches",
+            "Women's College Hockey DIII Coaches",
+            "Women's U Sports Hockey Coaches"
+        ]
+    },
+    {
+        "sheet_name": "List of Coaches (scraped)",
+        "sheet_id": "men's ice hockey",
+        "sheet_url": "https://docs.google.com/spreadsheets/d/1mQowKV3QELGZPf0WzHaqyiPKyt-CfBoCOJZ9uIcrIrM/edit?gid=858352977#gid=858352977",
+        "output": "men_ice_hockey.json",
+        "failed_scraped": "failed_mice.json",
+        "category": [
+            "Men's College Hockey DI Coaches",
+            "Men's College Hockey DIII Coaches",
+            "Men's U Sports Hockey Coaches"
+        ]
+    }
+]
